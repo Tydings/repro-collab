@@ -81,7 +81,7 @@ For each participant individually:
 
 ### Visual Inspection Criteria
 
-We will examine whether the data show:
+We will examine whether the data show by hand-drawing a scatter plot:
 
 - A horizontal line (constant discrimination time) for very small stimulus differences
 - A transition point (likely corresponding to the JND)
