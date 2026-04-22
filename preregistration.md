@@ -41,7 +41,7 @@ Seven participants with normal or corrected-to-normal vision will complete the s
 
 - **Stimuli**: Black squares on a white background
   - Reference square: 9.00 sq.mm (constant)
-  - Comparison squares: 39 different sizes ranging from 8.00 to 15.00 sq.mm
+  - Comparison squares: pseudorandomly-generated sizes ranging from 8.00 to 15.00 sq.mm
   - This range includes squares both smaller and larger than the reference
 
 ### Procedure
